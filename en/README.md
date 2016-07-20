@@ -22,7 +22,7 @@ Adminer module provides SQL Management for XOOPS from inside the Admin Panel
 **You can fork the module --> [here](https://github.com/XoopsModules25x/adminer))** 
 
 |**Module Development**|**Module Releases**|**Tutorial Development**|**Tutorial Book**|**Translations**|
-|::|::|::|::|::|
+|:---:|:---:|:---:|:---:|:---:|
 |[GitHub](https://github.com/XoopsModules25x/adminer)|[GitHub](https://github.com/XOOPS/XoopsModules25x/adminer/releases)|[GitHub](https://github.com/XoopsDocs/adminer-tutorial)|[GitBook](https://www.gitbook.com/book/xoops/adminer-tutorial/)|[Transifex](https://www.transifex.com/xoops/)|
 
 ## How to Contribute
