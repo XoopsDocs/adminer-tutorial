@@ -9,7 +9,7 @@ The module has been created by Kris_fr from XOOPS France, and contains:
 - editor by Adminer.org (http://www.adminer.org) 
 
 
-The module has been updated for XOOPS 2.5.8 by Michael Beck (aka Mamba), who also has written this Tutorial.
+The module has been updated for XOOPS 2.5.9 by Michael Beck (aka Mamba), who also has written this Tutorial.
 
 
 Place for future contributors to the Tutorial:
