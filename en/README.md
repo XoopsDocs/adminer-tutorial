@@ -14,7 +14,7 @@
 
 Adminer module provides SQL Management for XOOPS from inside the Admin Panel
 
-![image001.png](assets/image001.png)
+![](assets/image001.png)
 *Figure 1: Main view of the Adminer Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
